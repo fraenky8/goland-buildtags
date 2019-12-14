@@ -1,5 +1,7 @@
 # Build tags
 
+Used as bug report here: https://youtrack.jetbrains.com/issue/GO-8609
+
 Running only the unit tests:
 
 ```
